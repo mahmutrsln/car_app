@@ -1,0 +1,46 @@
+{
+    "results": [
+        {
+            "id": 1,
+            "title": "bmw",
+            "detail": "Yeni BMW 1 Serisi, hayranlık dolu bakışları üzerinde toplamaya hazır. Modern tasarım dili, daha ilk bakışta ayırt edilmesini sağlar. Aynı durum, modern bir atmosfere sahip ve premium kalitesi ve ferahlığıyla ilham veren iç tasarım için de geçerlidir.",
+            "src": "https://serving.photos.photobox.com/62556157108c49a11f1177d8fcb8dc256233ef8a4cfc094f1f28213ee13650e4277d0397.jpg",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "title": "mercedes",
+            "detail": "Prestij, zeka ve dinamizm bir arada.Sizi tüm hedeflerinize ulaştırmak için geliştirildi. Yeni E-Serisi Sedan’ın öne çıkan özelliklerini keşfedin. Her zamanki gibi zarif, hiç olmadığı kadar sportif.",
+            "src": "https://serving.photos.photobox.com/006652820fcf7b406397fe3191377145893fc90598f79f7db056cf6f1209462d047e9d8e.jpg",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "title": "kia",
+            "detail": "KIA aracınızın tüm servis ve bakım işlem bilgilerine kolayca ulaşın.   Birçok anlaşmalı markanın size özel indirimlerinden faydalanın.",
+            "src": "https://serving.photos.photobox.com/87201403161a1d76d665e68760d0da0f06ce8f40a7215181b28622ca137d9b0a503333e6.jpg",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "title": "mini couper",
+            "detail": "Orijinal stil ikonu, şimdi modern şehir koşullarına göre yeniden yorumlandı. Karakteristik MINI duruşunu daha fazla kapı, baş ve diz mesafesi ile bir araya getiren bu güvenilir 5 Kapı modeli;",
+            "src": "https://serving.photos.photobox.com/639880708079c6efc7a5b878a3e1001441e6c17aad539b876a4bfadbb9867839adc55e0f.jpg",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "title": "renault",
+            "detail": "Yeni CLIO, dinamik hatları ve dikkat çeken detaylarıyla daha ilk bakışta sizi cezbediyor. C şeklindeki Renault imzalı gündüz farlar, Pure Vision Full LED farlar, dikkat çeken krom detaylar ve yeni gövde rengi mercan turuncu.",
+            "src": "https://cdn.group.renault.com/ren/master/renault-new-cars/product-plans/clio/bja-clio/2560x1440-responsive-format/renault-clio5-ph1-exterior-3d-002.jpg.ximg.xsmall.jpg/6f4be61b15.jpg",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "title": "skoda",
+            "detail": "Karşınızda tamamen yenilenen ŠKODA OCTAVIA. Standartların üzerinde sunduğu geniş yaşam alanıyla hem iş hayatınızda hem de gündelik kullanımlarındaki pratikliğiyle daima yanınızda. Optimum boyutları, gelişmiş sürüş destek asistanları, üstün performansı ve konforuyla, günlük kullanım ve uzun seyahatleriniz için birebir.  ŠKODA OCTAVIA sunduğu sayısız güvenlik asistanı, akıllı çözümleri ve bağlantı servisleriyle yolculuklarınız keyfe dönüşecek.",
+            "src": "https://serving.photos.photobox.com/348520846562b9dc05aab456af1ad8735edbb111d25d90b0ec4d85807f7fa8d1edee84f4.jpg",
+            "isActive": true
+        }
+    ]
+}

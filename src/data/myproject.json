@@ -1,0 +1,34 @@
+{
+    "projects": [
+        {
+            "id": "1",
+            "name": "Teşvikçi",
+            "technologies": ".Net Core , MSSQL , Html , Css , Javascript , Jquery",
+            "projecturl": "http://msdenetim.com/ms-tesvik-programi/"
+        },
+        {
+            "id": "2",
+            "name": "Keeper",
+            "technologies": ".Net Core , MSSQL , Html , Css , Javascript , Jquery",
+            "projecturl": "https://www.enuygunbakici.com"
+        },
+        {
+            "id": "3",
+            "name": "Kadem  Foundation (CMS System)",
+            "technologies": ".NET(mvc), MSSQL , Html , Css , Javascript , Jquery",
+            "projecturl": "https://www.kademvakfi.org/"
+        },
+        {
+            "id": "4",
+            "name": "Kadim Hikmet Academy (CMS System)",
+            "technologies": "NET(mvc), MSSQL , Html , Css , Javascript , Jquery",
+            "projecturl": "https://kadimhikmetakademisi.org/"
+        },
+        {
+            "id": "5",
+            "name": "Kadem Home (CMS System)",
+            "technologies": ".NET(mvc), MSSQL , Html , Css , Javascript , Jquery",
+            "projecturl": "https://kademev.com/"
+        }
+    ]
+}

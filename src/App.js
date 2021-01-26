@@ -1,24 +1,40 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Navbar from './components/Navbar';
+import {BrowserRouter, Switch, Route } from 'react-router-dom'
+import links from './data/links'
 
 function App() {
+  const routeMaps = links.map((item, index) =>(
+    <Route key ={index} exact = {item.isExact} path = {item.link} component = {item.component} />
+    )
+  )
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <BrowserRouter>
+        <Navbar links = {links}/>
+        <div className="container">
+          <div className="row">
+            <div className="col-sm-8 offset-sm-2">
+              <Switch>
+                {routeMaps}
+              </Switch>
+              {/* <Switch>
+                <Route exact = {true} path="/" component ={Home} />
+              </Switch>
+              <Switch>
+                <Route exact = {false} path="/urunler" component={Products} />
+              </Switch>
+              <Switch>
+                <Route exact = {false} path="/hakkimizda" component = {About} />
+              </Switch>
+              <Switch>
+              <Route exact = {false} path="/iletişim" component ={Contact} />
+              </Switch> */}
+            </div>
+          </div>
+        </div>
+    </BrowserRouter>
+
   );
 }
 
